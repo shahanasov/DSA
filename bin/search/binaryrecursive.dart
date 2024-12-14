@@ -1,6 +1,6 @@
 void main(List<String> args) {
   List<int> arr=[1,2,3,4,5,6,7,8,9,10];
-  int target=1;
+  int target=11;
  int rslt= finding(arr,target,0,arr.length-1);
  print(rslt);
 }
